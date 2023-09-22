@@ -15,4 +15,5 @@ Note: This dataset is from the National Institute of Diabetes and Digestive and 
 * DiabetesPedigreeFunction: Diabetes pedigree function
 * Age: Age (years)
 * Outcome: Class variable (0 or 1)
-[Let's get started!]
+
+[Let's get started!](EDA_Diagnosing_Diabetes.ipynb)
